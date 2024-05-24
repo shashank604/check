@@ -1,1 +1,1 @@
-alert(js)
+alert("Cross Domain Script Include")
